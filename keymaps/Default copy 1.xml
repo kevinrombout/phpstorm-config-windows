@@ -6,9 +6,22 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="IntroduceConstant" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="OptimizeImports" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
 </keymap>
