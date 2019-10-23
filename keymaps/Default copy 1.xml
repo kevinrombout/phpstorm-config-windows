@@ -6,8 +6,13 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -20,8 +25,12 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="OptimizeImports" />
+  <action id="ScrollTreeToCenter" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
