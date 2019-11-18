@@ -19,6 +19,7 @@
       <mapping pattern="phpcbf_phpstorm" type="PLAIN_TEXT" />
       <mapping pattern="dbreset" type="PLAIN_TEXT" />
       <mapping pattern="ibdata1" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="aria_log_control" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
